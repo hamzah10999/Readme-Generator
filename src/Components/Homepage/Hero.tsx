@@ -9,7 +9,7 @@ const Hero = () => {
         <div className="flex flex-col items-center gap-1 sm:gap-2 lg:gap-4 text-3xl sm:text-5xl lg:text-7xl font-extrabold">
           <h1>Readme writing? Easy.</h1>
           <h1>
-            With <span className="text-blue-600">ReadmeEasy.</span>
+            With <span className="text-blue-600">Readme Generator.</span>
           </h1>
         </div>
         <span className="text-sm sm:text-lg lg:text-xl flex items-center gap-1 text-neutral-700">
