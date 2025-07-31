@@ -68,28 +68,3 @@ ReadmeEasy simplifies documentation: just input key project details, and the AI 
     └───types
 ```
 
-## 👋 Contributions
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the repository
-2. Clone your fork: `git clone https://github.com/Geeteshgit/readme-easy.git`
-3. Create a new branch: `git checkout -b feature/AmazingFeature`
-4. Make your changes and commit them: `git commit -m 'Add some AmazingFeature'`
-5. Push to the branch: `git push origin feature/AmazingFeature`
-6. Open a Pull Request
-
-## 💡 Upcoming Features
-- 🌐 Multi-language support for README generation
-- 🧩 Integration with Git hosting platforms (GitHub, GitLab)
-- 📊 Analytics on README views/engagement
-- 🔗 Support for custom markdown extensions
-- ☁️ Cloud synchronization and project templates
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## ✉️ Contact
-**Author:** Geetesh Dalal\
-**Email:** geeteshdalal.work@gmail.com
-
-> ❤️ This README was written by **ReadmeEasy** for fast and professional documentation.
