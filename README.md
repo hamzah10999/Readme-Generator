@@ -2,7 +2,7 @@
 ReadmeEasy is an AI-powered tool designed to streamline the creation of professional and comprehensive `README.md` files. Simply provide a few project details, and our intelligent system crafts a perfectly formatted, engaging README, saving you time and effort.
 
 ## 🚀 Live Demo
-[Visit ReadmeEasy](<https://readmeeasy.vercel.app>)
+
 
 ## ✨ Features
 - 🌟 AI-powered README generation
@@ -17,28 +17,6 @@ ReadmeEasy is an AI-powered tool designed to streamline the creation of professi
 **Database:** MongoDB\
 **AI:** Gemini AI API
 
-## ⚙️ Installation
-To get a local copy up and running, follow these simple steps.
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Geeteshgit/readme-easy.git
-```
-
-2. Navigate into the project directory:
-```bash
-cd readme-easy
-```
-
-3. Install NPM dependencies:
-```bash
-npm install
-```
-
-4. Start the development server:
-```bash
-npm run dev
-```
 
 🔑 **Environment Variables:** Create a `.env.local` file in the root directory and add your environment variables.
 ```bash
@@ -68,28 +46,3 @@ ReadmeEasy simplifies documentation: just input key project details, and the AI 
     └───types
 ```
 
-## 👋 Contributions
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the repository
-2. Clone your fork: `git clone https://github.com/Geeteshgit/readme-easy.git`
-3. Create a new branch: `git checkout -b feature/AmazingFeature`
-4. Make your changes and commit them: `git commit -m 'Add some AmazingFeature'`
-5. Push to the branch: `git push origin feature/AmazingFeature`
-6. Open a Pull Request
-
-## 💡 Upcoming Features
-- 🌐 Multi-language support for README generation
-- 🧩 Integration with Git hosting platforms (GitHub, GitLab)
-- 📊 Analytics on README views/engagement
-- 🔗 Support for custom markdown extensions
-- ☁️ Cloud synchronization and project templates
-
-## 📜 License
-This project is licensed under the MIT License.
-
-## ✉️ Contact
-**Author:** Geetesh Dalal\
-**Email:** geeteshdalal.work@gmail.com
-
-> ❤️ This README was written by **ReadmeEasy** for fast and professional documentation.# Readme-Generator
